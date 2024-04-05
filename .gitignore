@@ -1,0 +1,12 @@
+node_modules
+.env
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment file
+.env
+
+# Ignore build output directory
+dist/
+coverage
+.vscode
